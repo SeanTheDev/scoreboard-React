@@ -8,16 +8,15 @@ This is a simple React-based scoreboard app that allows users to add and remove 
 ## Getting Started
 To get started with the scoreboard app, first clone the repository to your local machine:
 
-## Copy code
+### Copy code
 ```git clone https://github.com/your-username/scoreboard-app.git```
 Once you have the repository on your machine, navigate to the root directory of the project and install the necessary dependencies:
 
-## Copy code
-```cd scoreboard-app
-npm install```
+### Copy code
+```cd scoreboard-app <br> npm install```
 After the dependencies have been installed, you can start the app by running:
 
-##Copy code
+### Copy code
 ```npm start```
 This will start a development server and open the app in your default web browser.
 
